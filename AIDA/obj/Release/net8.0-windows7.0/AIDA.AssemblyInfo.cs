@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIDA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+964829fc1d6fa02a6e7a71823faa3dd91a4230c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIDA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIDA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

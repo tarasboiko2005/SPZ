@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lego8\\Videos\\бродівча\\AIDA\\AIDA\\AIDA.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\AIDA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lego8\\Videos\\бродівча\\AIDA\\AIDA\\AIDA.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\AIDA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lego8\\Videos\\бродівча\\AIDA\\AIDA\\AIDA.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\AIDA.csproj",
         "projectName": "AIDA",
-        "projectPath": "C:\\Users\\lego8\\Videos\\бродівча\\AIDA\\AIDA\\AIDA.csproj",
-        "packagesPath": "C:\\Users\\lego8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lego8\\Videos\\бродівча\\AIDA\\AIDA\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\AIDA.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lego8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -85,7 +84,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

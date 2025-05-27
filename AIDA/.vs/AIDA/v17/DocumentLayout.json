@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|c:\\users\\lego8\\videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\aida\\aida\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|c:\\users\\lego8\\videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\aida\\aida\\properties\\engui.uk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|solutionrelative:properties\\engui.uk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|c:\\users\\lego8\\videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\aida\\aida\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|c:\\users\\admin\\documents\\github\\spz\\aida\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|c:\\users\\lego8\\videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\aida\\aida\\properties\\engui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|c:\\users\\admin\\documents\\github\\spz\\aida\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|c:\\users\\admin\\documents\\github\\spz\\aida\\properties\\engui.uk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|solutionrelative:properties\\engui.uk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|c:\\users\\admin\\documents\\github\\spz\\aida\\properties\\engui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{E3542B42-D1B0-47B6-BDA1-D7DA15B93D48}|AIDA.csproj|solutionrelative:properties\\engui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,11 +37,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-04T00:44:55.024Z",
@@ -51,46 +51,46 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EngUI.resx",
-              "DocumentMoniker": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\Properties\\EngUI.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\Properties\\EngUI.resx",
               "RelativeDocumentMoniker": "Properties\\EngUI.resx",
-              "ToolTip": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\Properties\\EngUI.resx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\Properties\\EngUI.resx",
               "RelativeToolTip": "Properties\\EngUI.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-05-04T00:40:27.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:34:31.663Z"
+              "WhenOpened": "2025-05-04T00:34:31.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EngUI.uk.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\Properties\\EngUI.uk.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\Properties\\EngUI.uk.Designer.cs",
               "RelativeDocumentMoniker": "Properties\\EngUI.uk.Designer.cs",
-              "ToolTip": "C:\\Users\\lego8\\Videos\\\u0431\u0440\u043E\u0434\u0456\u0432\u0447\u0430\\AIDA\\AIDA\\Properties\\EngUI.uk.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SPZ\\AIDA\\Properties\\EngUI.uk.Designer.cs",
               "RelativeToolTip": "Properties\\EngUI.uk.Designer.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:31:30.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:31:30.281Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\lego8\\.nuget\\packages\\edidparser\\1.2.5.4\\readme.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\edidparser\\1.2.5.4\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\lego8\\.nuget\\packages\\edidparser\\1.2.5.4\\readme.txt",
               "ToolTip": "C:\\Users\\lego8\\.nuget\\packages\\edidparser\\1.2.5.4\\readme.txt",
-              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\edidparser\\1.2.5.4\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\lego8\\.nuget\\packages\\edidparser\\1.2.5.4\\readme.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-05-03T23:08:03.545Z"
