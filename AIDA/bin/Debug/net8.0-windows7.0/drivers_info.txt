@@ -1,5 +1,0 @@
-Драйвера
-Meta Virtual Monitor	17.12.55.198	20230328000000.******+***	ОК
-NVIDIA GeForce RTX 3060	32.0.15.6603	20241015000000.******+***	ОК
-spacedesk Graphics Adapter	1.1.352.157	20210921000000.******+***	ОК
-vs spacedesk Graphics Adapter	1.1.352.157	20210921000000.******+***	ОК

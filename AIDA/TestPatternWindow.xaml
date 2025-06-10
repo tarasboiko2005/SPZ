@@ -1,9 +1,0 @@
-<Window x:Class="AIDA.TestPatternWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Test Pattern" Height="600" Width="800"
-        WindowStartupLocation="CenterScreen">
-    <Grid>
-        <!-- Grid pattern will be defined here based on the type -->
-    </Grid>
-</Window>
